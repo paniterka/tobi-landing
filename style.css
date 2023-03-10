@@ -5,7 +5,7 @@ body {
 
 /* Set up header section */
 header {
-    background-color: yellow;
+    background-color: darkcyan;
     color: white;
     padding: 50px;
     text-align: center;
@@ -41,7 +41,7 @@ main li {
 
 /* Set up footer section */
 footer {
-    background-color: yellow;
+    background-color: darkcyan;
     color: white;
     padding: 20px;
     text-align: center;
